@@ -1,0 +1,77 @@
+{
+  "cortes": [
+    {
+      "nome": "Short Bob Texturizado",
+      "descricao": "Moderno e super prático! Perfeito para quem busca leveza.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/shortbob"
+    },
+    {
+      "nome": "Butterfly Haircut",
+      "descricao": "Camadas suaves que trazem movimento e volume, ideal para cabelos médios e longos.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/butterfly"
+    },
+    {
+      "nome": "Pixie Alongado",
+      "descricao": "Uma versão mais versátil do clássico pixie, com mais comprimento no topo.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/pixie"
+    },
+    {
+      "nome": "Wolf Cut Suave",
+      "descricao": "Uma versão mais comercial e menos rebelde do Wolf Cut, com camadas sutis.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/wolfcut"
+    }
+  ],
+  "cores": [
+    {
+      "nome": "Caramelo Dourado",
+      "descricao": "Ilumina o visual com um toque quente e sofisticado.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/caramelo"
+    },
+    {
+      "nome": "Ruivo Acobreado Intenso (Cherry Cola)",
+      "descricao": "Para quem não tem medo de ousar e quer um look poderoso.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/ruivoacobreado"
+    },
+    {
+      "nome": "Morena Iluminada Canela",
+      "descricao": "Tons quentes e sutis para iluminar cabelos escuros.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/morenailuminadacanela"
+    },
+    {
+      "nome": "Loiro Platinado Perolado",
+      "descricao": "Um clássico atemporal com um toque de brilho perolado.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/loiroplatinado"
+    }
+  ],
+  "penteados": [
+    {
+      "nome": "Tranças Boxeadoras Modernas",
+      "descricao": "Versáteis e estilosas, perfeitas para diversas ocasiões.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/trancas"
+    },
+    {
+      "nome": "Coque Despojado Elegante",
+      "descricao": "Um clássico que nunca sai de moda, ideal para festas e eventos.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/coque"
+    },
+    {
+      "nome": "Ondas 'Beach Waves' Naturais",
+      "descricao": "Um look leve e descontraído, perfeito para o dia a dia.",
+      "inspiracao_link": "https://instagram.com/renovocabelereiros/beachwaves"
+    }
+  ],
+  "cuidados": [
+    {
+      "nome": "Cronograma Capilar Personalizado",
+      "descricao": "Descubra a sequência ideal de hidratação, nutrição e reconstrução para seus fios."
+    },
+    {
+      "nome": "Acidificação Capilar",
+      "descricao": "Para selar as cutículas e devolver o brilho após químicas ou danos."
+    },
+    {
+      "nome": "Óleos Reparadores com Proteção UV",
+      "descricao": "Essenciais para proteger os fios do sol e do calor do secador."
+    }
+  ]
+}
